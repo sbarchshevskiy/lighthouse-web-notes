@@ -16,3 +16,10 @@ function whatToDoForLunch(hungry, availableTime) {
   console.log("availableTime is", availableTime);
 }
 ```
+
+### ES6 tips:
+
+````javascript
+const name = 'Alice';
+console.log(`Hello, ${name}!`); // logs: Hello, Alice!
+````
